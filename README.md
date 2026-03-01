@@ -1,6 +1,6 @@
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; text-align: center;">
   <tr style="background-color: #4CAF50; color: white;">
-    <th>名前</th>
+    <th></th>
     <th>役割</th>
     <th>ステータス</th>
   </tr>
